@@ -1,4 +1,5 @@
 # template-nodejs
+# WORK IN PROGRESS!! unstable!!
 A template project for nodejs. Has integrated linting, testing,
 coverage, reporting, Github actions and other goodies.
 
