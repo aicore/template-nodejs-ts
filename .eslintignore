@@ -1,5 +1,5 @@
 **/node_modules/**/*.js
-src/thirdparty/**
+dist
 src/**/*-min.js
 src/**/*.min.js
 

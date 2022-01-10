@@ -14,6 +14,8 @@
 // jshint ignore: start
 /*global describe, it*/
 
+//  TODO port to typescript: https://dev.to/matteobruni/mocha-chai-with-typescript-37f
+
 import helloWorld from "../../src/index.js";
 import * as assert from 'assert';
 import * as chai from 'chai';
